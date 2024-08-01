@@ -9,7 +9,7 @@ Installation
 Usage
 Results
 Contributing
-License
+
 Overview
 This repository contains the implementation of a deep learning model for comment toxicity detection. The model leverages NLP techniques to preprocess the text data and trains a neural network to classify comments based on their toxicity levels.
 
